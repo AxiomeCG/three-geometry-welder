@@ -1,5 +1,5 @@
 {
-  "name": "three-geometry-welder",
+  "name": "@0xaxiome/three-geometry-welder",
   "version": "0.1.0",
   "description": "Service to weld some ThreeJS geometry to indexed one",
   "repository": "https://github.com/0xAxiome/three-geometry-welder.git",
