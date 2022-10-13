@@ -2,6 +2,7 @@
   "name": "three-geometry-welder",
   "version": "0.1.0",
   "description": "Service to weld some ThreeJS geometry to indexed one",
+  "repository": "https://github.com/0xAxiome/three-geometry-welder.git",
   "source": "src/index.ts",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
