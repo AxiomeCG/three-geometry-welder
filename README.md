@@ -23,7 +23,7 @@
 
 ## How to use this library 🔧
 
-Run `npm install three-geometry-welder`
+Run `npm install @0xaxiome/three-geometry-welder`
 
 Then you can use in your code:
 
