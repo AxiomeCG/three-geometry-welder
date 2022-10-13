@@ -19,7 +19,7 @@
 
 # Quick Start 🏁
 
-➡️[ Documentation ](https://0xAxiome.github.io/)⬅️
+➡️[ Documentation ](https://0xaxiome.github.io/docs/three-geometry-welder/v0.1.0/)⬅️
 
 ## How to use this library 🔧
 
