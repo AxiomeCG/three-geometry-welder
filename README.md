@@ -19,7 +19,7 @@
 
 # Quick Start 🏁
 
-➡️[ Documentation ](https://0xaxiome.github.io/docs/three-geometry-welder/v0.1.0/)⬅️
+➡️[ Documentation ](https://axiomecg.github.io/docs/three-geometry-welder/v0.1.0/)⬅️
 
 ## How to use this library 🔧
 
@@ -71,4 +71,4 @@ Here you can also change the behaviour of the welder if you don't want it to che
 
 You can reach me on Twitter:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0xAxiome)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Axiome_CG)
